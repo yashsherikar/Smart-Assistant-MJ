@@ -1,0 +1,10 @@
+vosk
+sounddevice
+pyttsx3
+pyautogui
+psutil
+pyperclip
+edge-tts
+soundfile
+numpy
+librosa
